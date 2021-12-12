@@ -8,7 +8,7 @@ Coursera Getting and Cleaning Data course project
 
 In this project, data collected, worked with, and cleaned, to prepare a tidy data that can be used for data analysis at a later date.
 
-### Files Contained in This Repository
+## Files Contained in This Repository
 Among the files in this repository are:
 README.md  -  this file, which provides an overview of the data set and how it was created.
 tidy_data.txt -  which contains the data set.
@@ -16,7 +16,7 @@ CodeBook.md - the code book, which describes the contents of the data set (data,
 run_analysis.R -  the R script that was used to create the data set (see the Creating the data set section below)
 
 
-#### Creating The Data Set
+## Creating The Data Set
 
 The R script run_analysis.R can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps (see the Code book for details, as well as the comments in the script itself):
 
